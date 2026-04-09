@@ -23,7 +23,7 @@ The objective of this mini project is to understand content trends, distribution
 - **NumPy**
 - **Matplotlib**
 - **Seaborn**
-- **Jupyter Notebook / Google Colab**
+- **Google Colab**
 
 ---
 
@@ -60,7 +60,9 @@ Created various charts and graphs to represent insights visually, including:
 - Pie Charts
 - Histograms
 - Line Charts
-- Heatmaps (if used)
+- Heatmaps
+- Tree map
+- Box plot
 
 ### 5. Hypothesis Testing
 Performed statistical testing to validate assumptions and identify relationships in the dataset.
